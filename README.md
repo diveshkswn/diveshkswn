@@ -28,6 +28,7 @@
 <img align="left" src="icons/bulma.svg" />
 <img align="left" src="icons/bootstrap.svg" />
 <img align="left" src="icons/typescript.svg" />
+<img align="left" src="icons/Amazon-Webservices-01.png" />
 <br />
 <br />
 <br />

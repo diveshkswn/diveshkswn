@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Divesh</h2>
 <h3 align="center">A software engineer , gamer and longlife learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
 <a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>

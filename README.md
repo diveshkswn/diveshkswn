@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/divesh-keswani-a347b1112/" target="blank"><img align="left" src="icons/linkedin.svg" alt="divesh" width="22px" /></a>
 
 <a href="https://www.instagram.com/divesh_keswani" target="blank"><img align="left" src="icons/instagram.svg" alt="divesh" width="22px" /></a>
-<a href="https://www.hackerrank.com/diveshkswn" target="blank"><img align="left" src="icons/leetcode.svg" alt="divesh" width="22px" /></a>
+<a href="https://www.hackerrank.com/diveshkswn" target="blank"><img align="left" src="icons/hackerrank.svg" alt="divesh" width="22px" /></a>
 <br />
 ### I am...
 * 🔭 Currently working on **[React Twitter Clone](https://github.com/diveshkswn/twitter-clone)**
@@ -34,6 +34,7 @@
 <img align="left" src="icons/nodejs-icon.svg" width="22px"/>
 <img align="left" src="icons/aws-2.svg" width="22px"/>
 <img align="left" src="icons/logo-javascript.svg" width="22px"/>
+
 <br />
 <br />
 <br />

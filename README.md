@@ -29,6 +29,11 @@
 <img align="left" src="icons/bootstrap.svg" />
 <img align="left" src="icons/typescript.svg" />
 <img align="left" src="icons/heroku-icon.svg" />
+<img align="left" src="icons/logo-javascript.svg" />
+<img align="left" src="icons/visual-studio-code.svg" />
+<img align="left" src="icons/nodejs-icon.svg" />
+<img align="left" src="icons/aws-2.svg" />
+<img align="left" src="icons/logo-javascript.svg" />
 <br />
 <br />
 <br />

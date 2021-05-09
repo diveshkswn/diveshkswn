@@ -1,22 +1,17 @@
 <h2 align="center">Hi 👋, I'm Divesh</h2>
-<h3 align="center">A software engineer , gamer and longlife learner</h3>
+<h3 align="center">A software engineer, gamer and longlife learner</h3>
 
 
-<a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-  <a href="https://t.me/xtenzq">
-  <img align="left" alt="Nikita's Telegram" width="22px" src="icons/telegram.svg" />
-</a>
-<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
+<a href="https://www.linkedin.com/in/divesh-keswani-a347b1112/" target="blank"><img align="left" src="icons/linkedin.svg" alt="divesh" width="22px" /></a>
+
+<a href="https://www.instagram.com/divesh_keswani" target="blank"><img align="left" src="icons/instagram.svg" alt="divesh" width="22px" /></a>
+<a href="https://www.hackerrank.com/diveshkswn" target="blank"><img align="left" src="icons/leetcode.svg" alt="divesh" width="22px" /></a>
 <br />
 ### I am...
-* 🎓 Postgraduate student and researcher at **[@compvis-lab](https://github.com/compvis-lab)**
-* 🔭 Currently working on **[SmartMonitor](https://github.com/xtenzQ/JunctionX-Seoul-2020)**
-* 🎓 Exchange student of Inha University (fall semester, 2019)
-* 👨‍💻 Junior software engineer working at **[Transneft Technology, LLC](http://en.tt.transneft.ru/about/history/)**
-* 📄 Get to know about my experiences in **[CV](https://cv.rusetskii.dev/)**
+* 🔭 Currently working on **[React Twitter Clone](https://github.com/diveshkswn/twitter-clone)**
+* 🎓 Graduate of Amity University (2015-2019)
+* 👨‍💻 Associate software engineer working at **[Accenture](https://www.accenture.com/)**
+* 📄 Get to know more about me **[CV](https://diveshkswn.github.io/portfolio_/)**
 
 ### Recent achievements and Certifications 🏆
 

@@ -29,7 +29,7 @@
 <img align="left" src="icons/bootstrap.svg" />
 <img align="left" src="icons/typescript.svg" />
 <img align="left" src="icons/heroku-icon.svg" width="35px" />
-<img align="left" src="icons/logo-javascript.svg" margin-left=50px" width="35px" />
+<img align="left" src="icons/logo-javascript.svg" style="margin : 50px" width="35px" />
 <img align="left" src="icons/visual-studio-code.svg"   margin="10px" width="35px"/>
 <img align="left" src="icons/nodejs-icon.svg"  margin="10px" width="35px"/>
 <img align="left" src="icons/aws-2.svg"  margin="10px" width="35px"/>

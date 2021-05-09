@@ -29,11 +29,11 @@
 <img align="left" src="icons/bootstrap.svg" />
 <img align="left" src="icons/typescript.svg" />
 <img align="left" src="icons/heroku-icon.svg" />
-<img align="left" src="icons/logo-javascript.svg" />
-<img align="left" src="icons/visual-studio-code.svg" />
-<img align="left" src="icons/nodejs-icon.svg" />
-<img align="left" src="icons/aws-2.svg" />
-<img align="left" src="icons/logo-javascript.svg" />
+<img align="left" src="icons/logo-javascript.svg" width="22px" />
+<img align="left" src="icons/visual-studio-code.svg" width="22px"/>
+<img align="left" src="icons/nodejs-icon.svg" width="22px"/>
+<img align="left" src="icons/aws-2.svg" width="22px"/>
+<img align="left" src="icons/logo-javascript.svg" width="22px"/>
 <br />
 <br />
 <br />

@@ -8,9 +8,9 @@
 <a href="https://www.hackerrank.com/diveshkswn" target="blank"><img align="left" src="icons/hackerrank.svg" alt="divesh" width="22px" /></a>
 <br />
 ### I am...
-* 🔭 Currently working on **[React Twitter Clone](https://github.com/diveshkswn/twitter-clone)**
+* 🔭 Currently working on **[React Photo Gallery with Firebase](https://github.com/diveshkswn/react-photo-gallery-firebase)**
 * 🎓 Graduate of Amity University (2015-2019)
-* 👨‍💻 Associate software engineer working at **[Accenture](https://www.accenture.com/)**
+* 👨‍💻 Software Developer working at **[Accenture](https://www.accenture.com/)**
 * 📄 Get to know more about me **[CV](https://diveshkswn.github.io/portfolio_/)**
 
 ### Recent achievements and Certifications 🏆

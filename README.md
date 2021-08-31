@@ -40,8 +40,8 @@
 <br />
 <br />
 
-![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/overview.svg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple)](https://github.com/diveshkswn/github-readme-stats)
+![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/overview.svg)
 
 <!-- ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/languages.svg) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple)](https://github.com/diveshkswn/github-readme-stats)
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple)](https://github.com/diveshkswn/github-readme-stats)
 

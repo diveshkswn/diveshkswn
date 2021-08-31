@@ -48,7 +48,7 @@
 <a href="https://github.com/diveshkswn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple" />
 </a>
-<a></a>
+<a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a>
 <a href="https://github.com/diveshkswn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple" />
 </a>

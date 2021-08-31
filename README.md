@@ -40,11 +40,14 @@
 <br />
 <br />
 
-![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/overview.svg)
+<!-- ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/overview.svg) -->
 
 <!-- ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/languages.svg) -->
+<!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues -->
 
-
+<a href="https://github.com/diveshkswn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple" />
+</a>
 <a href="https://github.com/diveshkswn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple" />
 </a>

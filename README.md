@@ -39,9 +39,12 @@
 <br />
 <br />
 <br />
-<div>
+
 ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/overview.svg)
 
 <!-- ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/languages.svg) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple)](https://github.com/diveshkswn/github-readme-stats)
-</div>
+
+
+<a href="https://github.com/diveshkswn/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshkswn&layout=compact&&theme=midnight-purple" />
+</a>

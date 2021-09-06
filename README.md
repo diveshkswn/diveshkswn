@@ -9,7 +9,8 @@
 <br />
 ### I am...
 * 🔭 Currently working on **[React Photo Gallery with Firebase](https://github.com/diveshkswn/react-photo-gallery-firebase)**
-* * 🔭 Currently working on **[React Disney Clone with Firebase](https://github.com/diveshkswn/disney-plus-react-clone)**
+*  🔭 Currently working on **[React Disney Clone with Firebase](https://github.com/diveshkswn/disney-plus-react-clone)**
+*  🔭 Currently working on **[Amazon Clone Next js](https://github.com/diveshkswn/amazon-clone-nextjs)**
 * 🎓 Graduate of Amity University (2015-2019)
 * 👨‍💻 Software Developer working at **[Accenture](https://www.accenture.com/)**
 * 📄 Get to know more about me **[CV](https://diveshkswn.github.io/portfolio_/)**

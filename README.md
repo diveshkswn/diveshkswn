@@ -47,7 +47,7 @@
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues -->
 
 <a href="https://github.com/diveshkswn/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diveshkswn&show_icons=true&theme=midnight-purple&hide=contribs,issues" />
+  <img align="center" src="https://github-readme-stats-blond-omega.vercel.app/api?username=diveshkswn&show_icons=true&theme=midnight-purple&hide=contribs,issues" />
 </a>
 
 <a href="https://github.com/diveshkswn/github-readme-stats">

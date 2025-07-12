@@ -8,7 +8,7 @@
 <a href="https://www.hackerrank.com/diveshkswn" target="blank"><img align="left" src="icons/hackerrank.svg" alt="divesh" width="22px" /></a>
 <br />
 ### I am...
-* 🔭 Currently working on **[React Photo Gallery with Firebase](https://github.com/diveshkswn/react-photo-gallery-firebase)**
+* 🔭 Currently working on **[Custom AI Chatbot](https://github.com/diveshkswn/personal-ai-chatbot)**
 *  🔭 Currently working on **[React Disney Clone with Firebase](https://github.com/diveshkswn/disney-plus-react-clone)**
 *  🔭 Currently working on **[Amazon Clone Next js](https://github.com/diveshkswn/amazon-clone-nextjs)**
 * 🎓 Graduate of Amity University (2015-2019)

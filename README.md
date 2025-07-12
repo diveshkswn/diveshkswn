@@ -12,7 +12,7 @@
 *  🔭 Currently working on **[React Disney Clone with Firebase](https://github.com/diveshkswn/disney-plus-react-clone)**
 *  🔭 Currently working on **[Amazon Clone Next js](https://github.com/diveshkswn/amazon-clone-nextjs)**
 * 🎓 Graduate of Amity University (2015-2019)
-* 👨‍💻 Software Developer working at **[Accenture](https://www.accenture.com/)**
+* 👨‍💻 Software Developer working at **[Publicis Sapient](https://www.publicissapient.com/)**
 * 📄 Get to know more about me **[CV](https://diveshkswn.github.io/portfolio_/)**
 
 ### Recent achievements and Certifications 🏆
